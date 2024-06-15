@@ -1,5 +1,4 @@
 # Yet-Another-DFS 
-Yet Another DFS PES2UG21CS028_PES2UG21CS042_PES2UG21CS0554_PES2UG21CS030
 
 Run the config_setup.py file and the following commands 
 
